@@ -6,12 +6,12 @@ n4 = float(input())
 n5 = float(input())
 
 calc1 = n1 //1 
-print('A media ponderada do 1°BIM =',calc1)
+print(f'A media ponderada do 1°BIM = {2.:f}'.format(calc1))
 calc2 = n2 //2
-print('A media pondetada do 2°BIM =',calc2)
+print(f'A media pondetada do 2°BIM = {2.:f}'.format(calc2))
 calc3 = n3 //3
-print('A media ponderada do 3°BIM =',calc3)
+print(f'A media ponderada do 3°BIM = {2.:f}'.format(calc3))
 calc4 = n4 //4
-print('A media ponderada do 4°BIM =',calc4)
+print(f'A media ponderada do 4°BIM = {2.:f}'.format(calc4))
 calc5= n5 //5
-print('A media ponderada do 5°BIM =',calc5)
+print(f'A media ponderada do 5°BIM = {2.:f}'.format(calc5))
