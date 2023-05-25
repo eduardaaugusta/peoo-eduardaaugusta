@@ -8,4 +8,4 @@ print('Digite o valor de y2')
 y2 = float(input())
 
 d1 = (x2-x1)*(x2-x1)+(y2-y1)*(y2-y1)
-print('A distância entre os dois pontos é = {2:.f}'.format(d1))
+print(f'A distância entre os dois pontos é = {2:.f}'.format(d1))
