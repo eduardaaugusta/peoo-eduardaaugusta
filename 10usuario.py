@@ -1,7 +1,0 @@
-print('Digite seu nome:')
-n = (input())
-print('Sexo:')
-s = (input())
-print('Os dados informados acima:')
-print('Nome:',n)
-print('Sexo:',s)
